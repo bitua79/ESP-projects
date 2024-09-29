@@ -1,5 +1,5 @@
 # ESP Projects Repository
-This repository contains multiple ESP-based projects, each designed to showcase specific functionalities such as integration with ThingsBoard, UART communication for LED control, and RFID handling.
+This repository contains multiple ESP-based projects, each designed to showcase specific functionalities such as integration with ThingsBoard, UART communication for LED control, and RFID handling. These codes were developed as part of our IoT course projects.
 
 ## Projects
 
